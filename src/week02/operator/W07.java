@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 public class W07 {
     public static void main(String[] args) {
         //기타 연산자

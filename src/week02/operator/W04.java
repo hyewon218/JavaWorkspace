@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 public class W04 {
     //논리연산자
     //비교 연산의 결과값으로 받을 수 있는 boolean 값을 연결하는 연산자

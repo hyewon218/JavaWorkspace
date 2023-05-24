@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 public class W05 {
     public static void main(String[] args) {
         // 변수를 바로 연산해서 그 자리에서 저장하는(대입하는) 연산자

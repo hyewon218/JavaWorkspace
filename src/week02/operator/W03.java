@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 public class W03 {
     //비교연산자 예제
     public static void main(String[] args) {
