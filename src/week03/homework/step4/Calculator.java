@@ -8,8 +8,10 @@ public class Calculator {
     public Calculator(AbstractOperation operation) {
         this.operation = operation;
     }
-    //  더하기, 빼기, 곱하기, 나누기 바꾸기 위해서 메서드 생성
+    // 더하기, 빼기, 곱하기, 나누기 바꾸기 위해서 메서드 생성
+    // 외부에서 받아와서 넣어주는 역할
     public void setOperation(AbstractOperation operation) {
+
         this.operation = operation;
     }
     public double calculate(int firstNumber, int secondNumber) {
